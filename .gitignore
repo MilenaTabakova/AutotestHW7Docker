@@ -3,6 +3,12 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
+src/
+gradle/
+build.gradle
+settings.gradle
+gradlew
+gradlew.bat
 
 ### STS ###
 .apt_generated
@@ -40,6 +46,3 @@ out/
 *.rar
 
 ### Exclusions ###
-!gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**
-!**/src/test/**
